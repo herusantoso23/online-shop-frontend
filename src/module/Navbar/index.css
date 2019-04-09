@@ -1,0 +1,38 @@
+.header {
+    background: #fff !important;
+    height: 65px !important;
+    border-bottom: 1px solid #e8e8e8 !important;
+}
+
+.header .logo{
+    background: rgba(255,255,255,.2) !important;
+    float: left !important;
+    margin-right: 20px !important;
+}
+
+.imageProfile{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightMenuItem {
+    float: right !important;
+}
+
+.content {
+    padding: 0 10%;
+}
+
+.card-profile-name {
+    height: 100px;
+    width:100px;
+    margin: auto;
+    text-align: center;
+}
+
+.card-profile {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 100%;
+}
